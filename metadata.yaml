@@ -1,0 +1,42 @@
+_repo: The-Goose-Girl_14598
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Castaigne, J. André
+    aliases:
+    - Castaigne, André
+    - Castaigne, Andre
+    - Castaigne, A. (André)
+    - Castaigne, J. Andre
+    gutenberg_agent_id: '31877'
+    url: http://www.gutenberg.org/2009/agents/31877
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: In an imaginary German principality, The Grand Duke of Ehrenstein's daughter
+  has been missing for years, and he blames neighboring Jugendheit. War may result.
+  Enter Gretchen, the beautiful goose girl, who can read, write, do sums, and loves
+  music. Is she more than she seems? What will happen between the American consul
+  Carmichael, and the charming Princess Hildegard?
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Princesses -- Fiction'
+title: The Goose Girl
+url: http://www.gutenberg.org/ebooks/14598
